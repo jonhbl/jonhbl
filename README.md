@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jonh Brian</h1>
+<h1 align="center">Hi 👋, I'm Jonh</h1>
 <h3 align="center">A Machine Learning and Data Science Enthusiast</h3>
 
 - 🔭 I’m currently working on [Grupo Boticário](https://www.grupoboticario.com.br/)
